@@ -1,2 +1,2 @@
 # dwm
-dwm ricing (with default bar
+dwm ricing (with default bar)
